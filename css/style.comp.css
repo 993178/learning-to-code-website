@@ -404,6 +404,7 @@ p {
         border-radius: 50%; } }
 
 .hoofd {
+  overflow: hidden;
   height: 48rem;
   display: table;
   margin-top: 10rem; }

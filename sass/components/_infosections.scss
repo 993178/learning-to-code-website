@@ -1,6 +1,7 @@
 // INFOSECTIONS LEFT AND RIGHT met kleine fotocompositie ernaast
 
 .hoofd {                          //   + links/rechts
+    overflow: hidden;
     height: $big-circle;
     display: table;
     margin-top: 10rem;
